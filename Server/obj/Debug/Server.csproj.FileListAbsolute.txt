@@ -1,0 +1,9 @@
+D:\VisualStudioProjects\Chatla3\Server\bin\Debug\Server.exe.config
+D:\VisualStudioProjects\Chatla3\Server\bin\Debug\Server.exe
+D:\VisualStudioProjects\Chatla3\Server\bin\Debug\Server.pdb
+D:\VisualStudioProjects\Chatla3\Server\bin\Debug\SharedInterfaces.dll
+D:\VisualStudioProjects\Chatla3\Server\bin\Debug\SharedInterfaces.pdb
+D:\VisualStudioProjects\Chatla3\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Chatla3\Server\obj\Debug\Server.csproj.CopyComplete
+D:\VisualStudioProjects\Chatla3\Server\obj\Debug\Server.exe
+D:\VisualStudioProjects\Chatla3\Server\obj\Debug\Server.pdb

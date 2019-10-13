@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\Chatla3\SharedInterfaces\bin\Debug\SharedInterfaces.dll
+D:\VisualStudioProjects\Chatla3\SharedInterfaces\bin\Debug\SharedInterfaces.pdb
+D:\VisualStudioProjects\Chatla3\SharedInterfaces\obj\Debug\SharedInterfaces.dll
+D:\VisualStudioProjects\Chatla3\SharedInterfaces\obj\Debug\SharedInterfaces.pdb
+D:\VisualStudioProjects\Chatla3\SharedInterfaces\obj\Debug\SharedInterfaces.csprojAssemblyReference.cache

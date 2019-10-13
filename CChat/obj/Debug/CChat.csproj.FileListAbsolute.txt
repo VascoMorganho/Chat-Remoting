@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\Chatla3\CChat\bin\Debug\CChat.exe.config
+D:\VisualStudioProjects\Chatla3\CChat\bin\Debug\CChat.exe
+D:\VisualStudioProjects\Chatla3\CChat\bin\Debug\CChat.pdb
+D:\VisualStudioProjects\Chatla3\CChat\bin\Debug\SharedInterfaces.dll
+D:\VisualStudioProjects\Chatla3\CChat\bin\Debug\SharedInterfaces.pdb
+D:\VisualStudioProjects\Chatla3\CChat\obj\Debug\CChat.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Chatla3\CChat\obj\Debug\CChat.Form1.resources
+D:\VisualStudioProjects\Chatla3\CChat\obj\Debug\CChat.Properties.Resources.resources
+D:\VisualStudioProjects\Chatla3\CChat\obj\Debug\CChat.csproj.GenerateResource.cache
+D:\VisualStudioProjects\Chatla3\CChat\obj\Debug\CChat.csproj.CopyComplete
+D:\VisualStudioProjects\Chatla3\CChat\obj\Debug\CChat.exe
+D:\VisualStudioProjects\Chatla3\CChat\obj\Debug\CChat.pdb
