@@ -44,7 +44,7 @@ namespace CChat
 
             RemotingServices.Marshal(cc, "ClientChat"+this.d, typeof(CChat));
 
-            this.s = (IServer)Activator.GetObject(typeof(IServer), "tcp://192.168.1.100:8086/SuperChat");
+            this.s = (IServer)Activator.GetObject(typeof(IServer), "tcp://[IP]:[PORT]/SuperChat");
             this.turl = "tcp://"+ GetLocalIPAddress() + ":" + port + "/ClientChat" + this.d;
 
             if(s.AddUser(nick, turl) == false)  //Check for already taken nickname
